@@ -1,30 +1,31 @@
+<!-- HERO BANNER -->
 <img width="100%" loading="lazy" src="https://github.com/wardaowais/wardaowais/blob/main/Warda.gif" />
 
 <h1 align="center">Hey 👋 I'm Taahaa Usman</h1>
 
 <p align="center">
-  🚀 <strong>Web Developer</strong> | ⚛️ React & Next.js Specialist | 🌐 MERN Stack <br/>
-  🤖 Curious about AI | ☕ Runs on coffee & clean code
+  🚀 Web Developer | ⚛️ React & Next.js Specialist | 🌐 MERN Stack <br/>
+  🤖 AI Explorer | ☕ Powered by Coffee & Curiosity
 </p>
 
 <p align="center">
   <em>
-    I turn ideas into scalable web apps.<br/>
-    Sometimes bugs turn me into a philosopher.
+    I build scalable web apps.<br/>
+    I break things. Then I fix them. Professionally.
   </em>
 </p>
 
 ---
 
-## 😄 About Me (With a Little Humor)
+## 😄 About Me
 
-- 💻 I build **modern, scalable web apps**
-- 🔥 I fix bugs… and sometimes *create new ones for job security*
-- 🧠 I believe **console.log()** is still a valid debugging tool
-- ⚡ React hooks are my superpower
-- 🤖 Exploring AI because *the future is scary if you don’t understand it*
+- 💻 Crafting **modern, scalable web applications**
+- 🔥 Turning complex UI ideas into smooth experiences
+- 🧠 `console.log()` — still undefeated
+- 🤖 Exploring AI so robots don’t replace me 😅
+- ⚡ React Hooks are my natural language
 
-> “It worked yesterday” — every developer ever.
+> “Why is this working?” — Me, after fixing a bug accidentally.
 
 ---
 
@@ -48,18 +49,14 @@
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
 </p>
 
-### ⚙️ Backend
+### ⚙️ Backend & Database
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white"/>
-</p>
-
-### 🗄 Database
-<p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
 </p>
 
-### 🧰 Tools I Can’t Live Without
+### 🧰 Dev Tools
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
@@ -70,20 +67,65 @@
 
 ---
 
-## 🧠 Fun Dev Facts
+## 📊 GitHub Stats (Dark Mode Optimized)
 
-- 🐛 Bugs fear me… but not enough
-- 🔁 I refactor code **just for fun**
-- 📦 “One more library won’t hurt” (it always does)
-- 🕒 Most productive hours: **after midnight**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TaahaaUsman&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaahaaUsman&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
 ---
 
-## 🤝 Let’s Build Something Awesome
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=TaahaaUsman&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 Virtual University Exam Prep Platform
+- ⚛️ React.js + Redux Toolkit
+- 🧪 200+ MCQs per subject
+- 🎯 Real exam-like UI
+- 🚀 Optimized for performance
+
+👉 *Private / Demo available on request*
+
+---
+
+### 🌐 MERN Stack Web Applications
+- 🔐 Authentication & role-based access
+- 📦 REST APIs with Node & Express
+- 🎨 Clean UI with Tailwind & MUI
+- ⚡ Fast & scalable architecture
+
+---
+
+### 🤖 AI + Web Experiments
+- 🧠 Smart UI interactions
+- 🔍 Automation-focused tools
+- 🚀 Learning & experimenting with AI-driven apps
+
+> “Side projects are where real learning happens.”
+
+---
+
+## 🧠 Developer Facts (100% Accurate)
+
+- 🐛 Bugs appear more often when someone is watching
+- 🔁 Refactoring feels illegal but amazing
+- 🕒 Best coding hours: **after midnight**
+- 📦 One more dependency = instant regret
+
+---
+
+## 🤝 Let’s Build Something Legendary
 
 <p>
-  Got an idea? A startup? A crazy side project?<br/>
-  Or just want to talk tech, AI, or why CSS behaves weird?
+  Have an idea? Startup? SaaS? Or just want to talk tech, AI, or React?
 </p>
 
 <p>
@@ -111,6 +153,6 @@
 
 <p align="center">
   <em>
-    “First, solve the problem. Then, write the code.” — John Johnson
+    “Code is like humor. When you have to explain it, it’s bad.”
   </em>
 </p>
